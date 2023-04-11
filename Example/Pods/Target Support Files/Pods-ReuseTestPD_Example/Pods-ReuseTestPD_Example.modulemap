@@ -1,0 +1,6 @@
+framework module Pods_ReuseTestPD_Example {
+  umbrella header "Pods-ReuseTestPD_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

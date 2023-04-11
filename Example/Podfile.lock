@@ -1,0 +1,16 @@
+PODS:
+  - ReuseTestPD (0.1.0)
+
+DEPENDENCIES:
+  - ReuseTestPD (from `../`)
+
+EXTERNAL SOURCES:
+  ReuseTestPD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReuseTestPD: 7e5d73dba431f7ecaf2aff178ca93178d86da4af
+
+PODFILE CHECKSUM: 4cc2f1c16035e861b4493d1861999506367017fc
+
+COCOAPODS: 1.11.3

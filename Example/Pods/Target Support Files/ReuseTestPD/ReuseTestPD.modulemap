@@ -1,0 +1,6 @@
+framework module ReuseTestPD {
+  umbrella header "ReuseTestPD-umbrella.h"
+
+  export *
+  module * { export * }
+}
