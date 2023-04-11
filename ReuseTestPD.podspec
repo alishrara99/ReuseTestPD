@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   "Long description"
                        DESC
 
-  s.homepage         = 'https://github.com/Ali Shrara/ReuseTestPD'
+  s.homepage         = 'https://github.com/alishrara99/ReuseTestPD'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ali Shrara' => 'ali.shrara@mymonty.com' }
-  s.source           = { :git => 'https://github.com/Ali Shrara/ReuseTestPD.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/alishrara99/ReuseTestPD.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
