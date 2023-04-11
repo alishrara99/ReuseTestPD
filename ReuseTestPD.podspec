@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ReuseTestPD'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ReuseTestPD.'
+  s.version          = '0.1.1'
+  s.summary          = 'Description of ReuseTestPD.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -32,6 +32,10 @@ Pod::Spec.new do |s|
 
   s.source_files = 'ReuseTestPD/Classes/**/*'
   s.swift_version = '5.0'
+  
+  s.platforms = {
+      "ios": "13.0"
+  }
   # s.resource_bundles = {
   #   'ReuseTestPD' => ['ReuseTestPD/Assets/*.png']
   # }
