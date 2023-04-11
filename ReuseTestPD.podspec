@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ReuseTestPD'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Description of ReuseTestPD.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/alishrara99/ReuseTestPD'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ali Shrara' => 'ali.shrara@mymonty.com' }
+  s.author           = { 'Ali Shrara' => 'alishrara_99@outlook.com' }
   s.source           = { :git => 'https://github.com/alishrara99/ReuseTestPD.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
