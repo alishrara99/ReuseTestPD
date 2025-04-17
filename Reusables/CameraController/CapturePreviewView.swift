@@ -1,6 +1,6 @@
 //
 //  CapturePreviewView.swift
-//  MyMonty
+//
 //
 //  Created by Ali admin on 13/02/2023.
 //
