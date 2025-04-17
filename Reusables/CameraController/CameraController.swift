@@ -1,6 +1,6 @@
 //
 //  CameraController.swift
-//  MyMonty
+//
 //
 //  Created by Ali admin on 13/02/2023.
 //
@@ -183,7 +183,7 @@ class CameraController: UIViewController {
         self.view.layer.insertSublayer(previewLayer, at: 0)
         
         captureSession.commitConfiguration()
-//        DispatchQueue.global(qos: .userInteractive).async {
+//        DispatchQueue.global(qos: .background).async {
             self.captureSession.startRunning()
 //        }
     }
