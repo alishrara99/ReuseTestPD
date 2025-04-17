@@ -22,7 +22,7 @@ pod 'ReuseTestPD'
 
 ## Author
 
-Ali Shrara, ali.shrara@mymonty.com
+Ali Shrara
 
 ## License
 
